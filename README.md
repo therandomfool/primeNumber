@@ -1,0 +1,1 @@
+# Finding prime numbers JS
